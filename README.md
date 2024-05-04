@@ -33,6 +33,3 @@ Moving on to the desktop version, the app maintains consistent functionality wit
 
 ![Web APP](https://github.com/Seme30/Kmm/assets/83661382/fb689e0a-df45-40d1-81bb-b4dc4a280fc2)
 
-
-
->>>>>>> 09cd4400e47bf1d497b6fae14406e6d7a5629997
